@@ -4,6 +4,8 @@
 
 Coming from different hometowns, our team was personally touched by the waste-related challenges we encountered – from landfill closures to city inconveniences, flooding, and polluted rivers. We also witnessed the efforts of waste pickers trying to make a living. These experiences fueled our shared concern and inspired us to create a solution: a waste management app that connects those with expertise in waste management to those in need of disposal, promoting sustainability and addressing these pressing issues.
 
+#### Demo App Video : [Click here to see the demo video](https://drive.google.com/file/d/1u_tVv4fH4KLd3-_9y_tgliAEKGJWRR1A/view?usp=sharing) ####
+
 ## Project Documents:
 - Project Brief : To Be Added
 - Final presentation : To Be Added

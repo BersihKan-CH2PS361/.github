@@ -13,9 +13,8 @@ Coming from different hometowns, our team was personally touched by the waste-re
 
 <!-- ## Project Resource: 
 - Paper Reference:  -->
-<br>
 
-## Capstone Project Team: 
+## Capstone Project Team 
 | Name | Bangkit-ID | Learning Path |
 | ------ | ------ | ------ | 
 | Alfina Shafiyyah Makarim  | M008BSX1540  | Machine Learning |

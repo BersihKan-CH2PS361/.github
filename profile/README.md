@@ -6,13 +6,14 @@ Coming from different hometowns, our team was personally touched by the waste-re
 
 #### Demo App Video : [Click here to see the demo video](https://drive.google.com/file/d/1u_tVv4fH4KLd3-_9y_tgliAEKGJWRR1A/view?usp=sharing) ####
 
-## Project Documents:
+<!-- ## Project Documents:
 - Project Brief : To Be Added
 - Final presentation : To Be Added
-- Go-To Market presentation : To Be Added
+- Go-To Market presentation : To Be Added -->
 
 <!-- ## Project Resource: 
 - Paper Reference:  -->
+<br>
 
 ## Capstone Project Team: 
 | Name | Bangkit-ID | Learning Path |
